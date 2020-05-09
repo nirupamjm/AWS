@@ -1,0 +1,22 @@
+1. # Creating EC2 Instance from an AMI# 
+
+## Step 1: Create an EC2 Instance in one account
+## Step 2: Create an AMI from that particular EC2 instance in the same account
+## Step 3: Create Cloud Formation template stack as below in another account 
+
+`Resources:`
+  `Ec2Instance:`
+    `Type: AWS::EC2::Instance`
+    `Properties:`
+      `InstanceType: t2.micro`
+      `ImageId: ami-0687d0013b4645de1 `
+      `Tags:`
+        `- Key: Name`
+          `Value: My EC2 Instance`
+        `- Key: Type`
+          `Value: Worker Instance`
+
+## Step 4: Rename the above ami-id with our newly created ami
+
+## Step 5: An instance will be launched automatically with the given ami 
+
