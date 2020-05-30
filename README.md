@@ -1,11 +1,11 @@
 # AWS
 
-<a href="https://docs.ansible.com/"><img src="https://github.com/EtricKombat/AWS/blob/master/docs/aws-git-backed-static-website-architecture.gif" height="500" width="500"/></a> 
+<a href="https://github.com/EtricKombat/AWS/blob/master/docs/AWS%20Certified%20DevOps%20Slides%20v1.1.pdf"><img src="https://github.com/EtricKombat/AWS/blob/master/docs/aws-git-backed-static-website-architecture.gif" height="500" width="500"/></a> 
 
 
-## CheatSheet
+## cheatsheet
 
-<a href="https://github.com/EtricKombat/ansible/blob/master/docs/ansible_docs_compressed.pdf"><img src="https://github.com/EtricKombat/AWS/blob/master/docs/aws.gif" width="150"/></a> 
+<a href="https://github.com/EtricKombat/AWS/blob/master/docs/aws-cli.pdf"><img src="https://github.com/EtricKombat/AWS/blob/master/docs/aws.gif" width="150"/></a> 
 
 <table>
 <tr><th>No:</th><th>Command (Click for Asciinema playback)</th><th>Description</th></tr>
