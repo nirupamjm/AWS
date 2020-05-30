@@ -1,9 +1,6 @@
 # AWS
 
-
-
-# Ansible
-<a href="https://docs.ansible.com/"><img src="https://github.com/EtricKombat/AWS/blob/master/docs/aws-git-backed-static-website-architecture.gif" height="300" width="350"/></a> 
+<a href="https://docs.ansible.com/"><img src="https://github.com/EtricKombat/AWS/blob/master/docs/aws-git-backed-static-website-architecture.gif" height="500" width="500"/></a> 
 
 
 ## CheatSheet
