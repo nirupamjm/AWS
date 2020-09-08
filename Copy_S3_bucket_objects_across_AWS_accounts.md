@@ -162,8 +162,8 @@ If we have to enable KMS encryption,use below policy
             ],
             "Effect": "Allow",
             "Resource": [
-                "arn:aws:kms:us-east-1:352910329780:key/0031fda7-36e3-44c6-9f0b-97cc2065d12b",
-                "arn:aws:kms:eu-west-1:154422504933:key/434756ea-961c-4519-a4fc-153cd8e4eec1"
+                "arn:aws:kms:eu-east-2:352878789999:key/0031fda7-36e3-44c6-9f0b-43cc2065d12q",
+                "arn:aws:kms:us-west-2:154422504986:key/434756ea-961c-4519-a4fc-873cd8e4eec8"
             ]
         }
     ]
