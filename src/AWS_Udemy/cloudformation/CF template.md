@@ -20,3 +20,7 @@ UseCases:-
 ![image](https://user-images.githubusercontent.com/54981984/94109557-cb55cc00-fe5e-11ea-8f0a-01b8a4f2992f.png)
 
 ![image](https://user-images.githubusercontent.com/54981984/94109729-06f09600-fe5f-11ea-8b56-4a057937df66.png) ,instanceType]
+
+
+![image](https://user-images.githubusercontent.com/54981984/94110506-5f746300-fe60-11ea-932d-60069abf56bc.png)
+
