@@ -1,6 +1,10 @@
 
 Link : https://www.linkedin.com/video/live/urn:li:ugcPost:6722384416330665984/
 
+-X-Ray
+-Lambda vs Fargate
+-Well architeted framework
+
 
 White paper : https://d1.awsstatic.com/whitepapers/architecture/AWS-Serverless-Applications-Lens.pdf
 
