@@ -10,7 +10,7 @@
 
 ### Step 3: We can access the EC2 by doing start session 
 
-### Step 4: You can see the IP of the EC2 instance
+### Step 4: You can see the private IP of the EC2 instance
 
 ![image](https://user-images.githubusercontent.com/54981984/96081167-5d894700-0ed6-11eb-88f8-6988c58ba62d.png)
 
@@ -20,7 +20,7 @@
 
 ![image](https://user-images.githubusercontent.com/54981984/96081830-c4f3c680-0ed7-11eb-969d-c8d10a75c338.png)
 
-![image](https://user-images.githubusercontent.com/54981984/96081969-fff5fa00-0ed7-11eb-893e-52629cad4a7b.png)
+![image](https://user-images.githubusercontent.com/54981984/96225692-191daa00-0faf-11eb-9bcb-d2ba917c42f7.png)
 
 ### Step 5: Done with this. Next,we can just check it out more
 
