@@ -60,19 +60,19 @@
     
   Save or Deploy this code 
     
- ## Step 3: Create a bucket and add event notification as our requirement by selecting our lambda function which we created. eg: if we enable PUT and delete any object ,it will make you notify you by email)
+ ### Step 3: Create a bucket and add event notification as our requirement by selecting our lambda function which we created. eg: if we enable PUT and delete any object ,it will make you notify you by email)
  
  ![image](https://user-images.githubusercontent.com/54981984/96747909-80d85880-13e6-11eb-9d2b-c266302c7bc4.png)
  
- ## Step 4: Try it by uploading and deleting some object from the particular bucket and it will trigger lambda to send mail to the owners
+ ### Step 4: Try it by uploading and deleting some object from the particular bucket and it will trigger lambda to send mail to the owners
  
  -------------------------------------------------------------------------------------------------------------------------------------------------------------
  
- ## Same usecase by sending simple mail to the user by invoking Lambda function with SES by Test'ing lambda (Without triggering it)
+ ### Same usecase by sending simple mail to the user by invoking Lambda function with SES by Test'ing lambda (Without triggering it)
  
- ## Step 1: Create an IAM role with AWS SES full access and AWSLambdaExecute(which enable cloudwatch logs by default) permission
+ ### Step 1: Create an IAM role with AWS SES full access and AWSLambdaExecute(which enable cloudwatch logs by default) permission
  
- ## Step 2: Create a Lambda Function by attaching the IAM role which we created and use the below code in the function
+ ### Step 2: Create a Lambda Function by attaching the IAM role which we created and use the below code in the function
  
     import boto3
     def lambda_handler(event, context):
@@ -107,5 +107,5 @@
         }
     )
     
-    ## Step 3: Deploy and Test the lambda function and you can check the inbox for your simple mail which we created via lambda
+   ### Step 3: Deploy and Test the lambda function and you can check the inbox for your simple mail which we created via lambda
     
