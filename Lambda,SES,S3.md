@@ -9,6 +9,8 @@
   Refer below link for accessing same code if you have any doubt in this 
       
   https://github.com/srcecde/aws-tutorial-code/blob/master/lambda/lambda_s3_event_ses_attach_email.py
+  
+  Tutorial : https://www.youtube.com/watch?v=SNc9qjLrSmM&t=1002s
       
     import boto3
     from email.mime.multipart import MIMEMultipart
@@ -84,10 +86,10 @@
      
     """
     ses.send_email(
-        Source = 'teenasusan09@gmail.com',
+        Source = 'xxxx@gmail.com',
         Destination ={
             'ToAddresses': [
-                'teenakochu@gmail.com',
+                'zzzz@gmail.com',
             ]
         
         },
