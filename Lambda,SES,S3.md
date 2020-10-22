@@ -107,5 +107,28 @@
         }
     )
     
+  OR
+  
+  
+ 
+     import boto3
+
+ 
+
+     def lambda_handler(event, context):
+    
+    ses = boto3.client("ses")
+       
+    sender = "XXXXgmail.com"
+    to = "ZZZZ9@gmail.com"
+    
+    msg["Subject"] = Hi there
+    msg["From"] = sender
+    msg["To"] = to
+    
+    response = ses.send_raw_email(Source = sender, Destinations = [to], RawMessage = {"Data": msg.as_string()})
+    
+    return "Thanks"
+    
    ### Step 3: Deploy and Test the lambda function and you can check the inbox for your simple mail which we created via lambda
     
