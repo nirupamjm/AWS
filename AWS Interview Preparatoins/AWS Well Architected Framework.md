@@ -38,6 +38,8 @@ Keep people away from data
 
 ### 3. Reliability - The Reliability pillar encompasses the ability of a workload to perform its intended function correctly and consistently when it’s expected to.
 
+Reliability requires that your workload be aware of failures as they occur and take action to avoid impact on availability. Workloads must be able to both withstand failures and automatically repair issues.
+
 #### Design Principles
 
 Automatically recover from failure
@@ -54,9 +56,9 @@ The Performance Efficiency pillar includes the ability to use computing resource
 
 Use serverless architectures
 
-Horizontal Scaling- Upgrading the compute to bigger Instance type 
+Vertical Scaling- Upgrading the compute to bigger Instance type
 
-Vertical Scaling- Increasing no of underlying instances
+Horizontal Scaling-  Increasing no of underlying instances
 
 ### 5. Cost Optimization
 
