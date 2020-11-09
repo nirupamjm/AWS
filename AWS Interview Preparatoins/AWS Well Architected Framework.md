@@ -2,6 +2,8 @@
 
 ## The AWS Well-Architected Framework helps you understand the pros and cons of decisions you make while building systems on AWS. By using the Framework you will learn architectural best practices for designing and operating reliable, secure, efficient, and cost-effective systems in the cloud
 
+![image](https://user-images.githubusercontent.com/54981984/98568631-52f47e80-22d7-11eb-98cb-7fb7df96d675.png)
+
 ### 1. Operational Excellence
 
 ![image](https://user-images.githubusercontent.com/54981984/98570298-4cff9d00-22d9-11eb-8093-b00970cb3a55.png)
@@ -59,8 +61,6 @@ Vertical Scaling- Increasing no of underlying instances
 ### 5. Cost Optimization
 
 The Cost Optimization pillar includes the ability to run systems to deliver business value at the lowest price point
-
-![image](https://user-images.githubusercontent.com/54981984/98568631-52f47e80-22d7-11eb-98cb-7fb7df96d675.png)
 
 #### Design Principles
 
