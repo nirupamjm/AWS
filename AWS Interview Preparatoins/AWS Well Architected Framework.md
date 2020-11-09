@@ -7,8 +7,11 @@
 #### Design Principles
 
 Perform operations as code
+
 Make frequent, small, reversible changes
+
 Anticipate failure
+
 Learn from all operational failures
 
 ![image](https://user-images.githubusercontent.com/54981984/98570298-4cff9d00-22d9-11eb-8093-b00970cb3a55.png)
@@ -18,10 +21,15 @@ Learn from all operational failures
 #### Design Principles
 
 Implement a strong identity foundation
+
 Enable traceability
+
 Apply security at all layers
+
 Automate security best practices
+
 Protect data in transit and at rest
+
 Keep people away from data
 
 ![image](https://user-images.githubusercontent.com/54981984/98568773-7c150f00-22d7-11eb-90a1-829adaaec274.png)
