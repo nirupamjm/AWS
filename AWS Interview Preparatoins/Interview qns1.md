@@ -48,9 +48,9 @@ For higher levels of protection against attacks targeting your applications runn
 
 ## Qn)
 ![image](https://user-images.githubusercontent.com/54981984/98700099-d4164900-239d-11eb-96e7-3170d0e82404.png)
+![image](https://user-images.githubusercontent.com/54981984/98700152-e2fcfb80-239d-11eb-8165-b456102aa1fa.png)
 
 ## Qn)
-![image](https://user-images.githubusercontent.com/54981984/98700152-e2fcfb80-239d-11eb-8165-b456102aa1fa.png)
 ![image](https://user-images.githubusercontent.com/54981984/98625753-45baac80-2336-11eb-9774-a6ebba326b34.png)
 
 ![image](https://user-images.githubusercontent.com/54981984/98625783-51a66e80-2336-11eb-83f4-a62a565e8ee4.png)
