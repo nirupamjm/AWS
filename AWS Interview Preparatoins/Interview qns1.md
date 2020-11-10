@@ -40,3 +40,12 @@ For higher levels of protection against attacks targeting your applications runn
 
 ![image](https://user-images.githubusercontent.com/54981984/98625783-51a66e80-2336-11eb-83f4-a62a565e8ee4.png)
 
+Check this out for more questions
+
+https://www.simplilearn.com/aws-solution-architect-associate-job-interview-questions-and-answers-article
+
+https://mindmajix.com/aws-architect-interview-questions
+
+https://learning.naukri.com/articles/top-aws-interview-questions-answers/
+
+https://www.edureka.co/blog/interview-questions/top-aws-architect-interview-questions-2016/
