@@ -34,6 +34,23 @@ All AWS customers benefit from the automatic protections of AWS Shield Standard,
 
 For higher levels of protection against attacks targeting your applications running on Amazon Elastic Compute Cloud (EC2), Elastic Load Balancing (ELB), Amazon CloudFront, AWS Global Accelerator and Amazon Route 53 resources, you can subscribe to AWS Shield Advanced
 
+## Qn)
+![image](https://user-images.githubusercontent.com/54981984/98698140-bc3dc580-239b-11eb-8078-e47c1c411862.png)
+
+## Qn) 
+![image](https://user-images.githubusercontent.com/54981984/98699109-cca27000-239c-11eb-9943-863a268f9823.png)
+
+## Qn)
+![image](https://user-images.githubusercontent.com/54981984/98699223-eb086b80-239c-11eb-8aff-a0ef56baf13a.png)
+
+## Qn)
+![image](https://user-images.githubusercontent.com/54981984/98699566-4e929900-239d-11eb-89e6-dfec31963b84.png)
+
+## Qn)
+![image](https://user-images.githubusercontent.com/54981984/98700099-d4164900-239d-11eb-96e7-3170d0e82404.png)
+
+## Qn)
+![image](https://user-images.githubusercontent.com/54981984/98700152-e2fcfb80-239d-11eb-8165-b456102aa1fa.png)
 
 ## Qn) 
 ![image](https://user-images.githubusercontent.com/54981984/98625753-45baac80-2336-11eb-9774-a6ebba326b34.png)
