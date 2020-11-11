@@ -12,41 +12,13 @@
 
 ## EC2 Best Practices
 
-### 01) AMI Hardening- Hardeniung AMI means,it includes all the security best practices implemented on it
+![image](https://user-images.githubusercontent.com/54981984/98836613-e52b8c80-2467-11eb-856d-b5c90d27a5fa.png)
 
-#### Just as any normal server, attacker can attempt to break into Amazon EC2 instance too.
-#### Hardening is a process that prevents such possible attacks on the server. It involves disabling unwanted services, ports, restricting access on the instance, remove weak programs, etc.
+![image](https://user-images.githubusercontent.com/54981984/98836636-ec529a80-2467-11eb-8100-0c641307e541.png)
 
-![image](https://user-images.githubusercontent.com/54981984/98500941-d1b7d000-2273-11eb-8ad1-c020857c67e9.png)
+![image](https://user-images.githubusercontent.com/54981984/98836668-f70d2f80-2467-11eb-8812-899f224debce.png)
 
-### 02) VPC Port Lockdown - VPC allows to communicate different ec2 servers which is running same application
-
-![image](https://user-images.githubusercontent.com/54981984/98501139-628eab80-2274-11eb-8145-9cb381b971de.png)
-
-### 03) Private Subnets
-
-![image](https://user-images.githubusercontent.com/54981984/98501696-fb71f680-2275-11eb-87a8-6f592fb14478.png)
-
-### 04) Micro-services Architecture
-
-Single minute of downtime causes millions of loss.But when you using Micro-services Architecture,you can scale vertically or Horizontally each micro services without worrying about downtime.
-
-![image](https://user-images.githubusercontent.com/54981984/98501814-47bd3680-2276-11eb-85f2-fbac0de6a0db.png)
-
-### 05) Environment Based Keys
-
-Make sure every envirtonment got a diferent keys.There is no need to a developer to get access to prod env.(If a single keys for every env) --See below
-
-![image](https://user-images.githubusercontent.com/54981984/98503037-9f10d600-2279-11eb-843f-8f64c008d5c9.png)
-
-### 06) LDAP Authentication
-
-Lightweight Directory Access Protocol
-LDAP (Lightweight Directory Access Protocol) is an open and cross platform protocol used for directory services authentication. 
-
-If we change one user credentials in one LDAP server,it will reflect across all the machines
-
-![image](https://user-images.githubusercontent.com/54981984/98503748-51956880-227b-11eb-95a5-a399ad73b197.png)
+![image](https://user-images.githubusercontent.com/54981984/98836703-01c7c480-2468-11eb-824b-368c06ec2ea8.png)
 
 ## IAM Best Practices
 
