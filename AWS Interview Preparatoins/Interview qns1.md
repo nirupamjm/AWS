@@ -57,7 +57,6 @@ For higher levels of protection against attacks targeting your applications runn
 
 Check this out for more questions
 
-https://www.simplilearn.com/aws-solution-architect-associate-job-interview-questions-and-answers-article
 
 https://mindmajix.com/aws-architect-interview-questions
 
