@@ -34,6 +34,8 @@
 
 ![image](https://user-images.githubusercontent.com/54981984/98504081-1182b580-227c-11eb-8273-55131538d179.png)
 
+![image](https://user-images.githubusercontent.com/54981984/98837834-74856f80-2469-11eb-9a9c-49050281ebbb.png)
+
 ## S3 Best Practices
 
 ### 01) Have Content Specific Names
